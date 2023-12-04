@@ -36,5 +36,5 @@ print(internado_enteros, internado_cadenas)
 **De hecho hay un TikTok que lo explica**
 [➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
 
-| [⬅️ Ir al inicio ](/README.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 2 ➡️](/dia2-lista_recursiva.md)|
+| [⬅️ Ir al inicio ](/README.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 2 ➡️](/dias/dia2-lista_recursiva.md)|
 |:------------- |:---------------:| -------------:|

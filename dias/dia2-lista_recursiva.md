@@ -28,5 +28,5 @@ print(lista_recursiva[3])
 **De hecho hay un TikTok que lo explica**
 [➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
 
-| [⬅️ Día 1 ](/dia1-interning.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 3 ➡️](/dia3-comprensiones-listas.md)|
+| [⬅️ Día 1 ](/dias/dia1-interning.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 3 ➡️](/dias/dia3-comprensiones-listas.md)|
 |:------------- |:---------------:| -------------:|

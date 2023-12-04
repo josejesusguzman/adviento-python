@@ -31,5 +31,5 @@ print(combinaciones)
 **De hecho hay un TikTok que lo explica**
 [➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
 
-| [⬅️ Día 3 ](/dia3-comprensiones-listas.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️]()|
+| [⬅️ Día 3 ](/dias/dia3-comprensiones-listas.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️]()|
 |:------------- |:---------------:| -------------:|
