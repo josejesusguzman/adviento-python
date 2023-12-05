@@ -5,6 +5,9 @@
 
 Vamos a ver un ejemplo práctico utilizando **itertools**. Supongamos que quieres generar todas las combinaciones posibles de tres elementos a partir de una lista. Podrías hacer esto manualmente con bucles anidados, pero es más eficiente y legible utilizar **itertools**.combinations.
 
+**[➡️ AQUÍ PUEDES VER EL CÓDIGO FUNCIONANDO ⬅️](/notebooks/dia4-itertools.ipynb)** 
+
+
 Primero tenemos que importar la biblioteca
 ```Python
 import itertools
@@ -31,5 +34,5 @@ print(combinaciones)
 **De hecho hay un TikTok que lo explica**
 [➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
 
-| [⬅️ Día 3 ](/dias/dia3-comprensiones-listas.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️]()|
+| [⬅️ Día 3 ](/dias/dia3-comprensiones-listas.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️](/dias/dia5-enumerate.md)|
 |:------------- |:---------------:| -------------:|

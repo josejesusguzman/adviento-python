@@ -5,6 +5,9 @@ Un tip valioso para programar mejor en Python es hacer uso eficiente de las **co
 
 Las comprensiones de lista no solo mejoran la legibilidad del código, sino que también son generalmente más rápidas porque están optimizadas internamente en Python. Además, reducen la cantidad de líneas de código necesarias para realizar una tarea, lo que ayuda a mantener tu código limpio y mantenible.
 
+**[➡️ AQUÍ PUEDES VER EL CÓDIGO FUNCIONANDO ⬅️](/notebooks/dia3-comprensiones-listas.ipynb)** 
+
+
 
 Creamos una lista en la que nos devuelva todos los cuadrados de los números de 0 al 9.
 Es decir, 0\*0=0, 1\*1=1, 2*2=4...

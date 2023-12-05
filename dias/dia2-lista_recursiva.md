@@ -3,6 +3,9 @@
 
 Una curiosidad poco conocida sobre las listas en Python es su capacidad para contener referencias a sí mismas, lo que se conoce como una **lista recursiva**. Esto significa que una lista puede contener una referencia a sí misma como uno de sus elementos. Esto se debe a que las listas en Python son objetos dinámicos y pueden almacenar cualquier tipo de dato, incluidas referencias a otros objetos, incluso a ellas mismas.
 
+**[➡️ AQUÍ PUEDES VER EL CÓDIGO FUNCIONANDO ⬅️](/notebooks/dia2-lista_recursiva.ipynb)** 
+
+
 Primero definimos una lista
 ```Python
 lista_recursiva = [1, 2, 3]
@@ -26,7 +29,7 @@ print(lista_recursiva[3])
 ```
 
 **De hecho hay un TikTok que lo explica**
-[➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
+[➡️DALE CLIC AQUÍ PARA VERLO⬅️](https://vm.tiktok.com/ZM6LfxUPs/)
 
 | [⬅️ Día 1 ](/dias/dia1-interning.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 3 ➡️](/dias/dia3-comprensiones-listas.md)|
 |:------------- |:---------------:| -------------:|

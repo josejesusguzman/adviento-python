@@ -7,6 +7,8 @@ Esto significa que cada vez que creas una variable con el mismo valor pequeño (
 
 Este comportamiento es especialmente notable con las cadenas y los enteros, donde múltiples referencias pueden apuntar al mismo objeto en memoria si sus valores son idénticos y están dentro del rango predefinido.
 
+**[➡️ AQUÍ PUEDES VER EL CÓDIGO FUNCIONANDO ⬅️](/notebooks/dia1-interning.ipynb)** 
+
 
 Enteros
 ```Python
