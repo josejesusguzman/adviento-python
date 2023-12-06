@@ -24,6 +24,6 @@ Este bucle for utiliza ```enumerate(frutas)```, que devuelve pares de índice y 
 **De hecho hay un TikTok que lo explica**
 [➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
 
-| [⬅️ Día 4 ](/dias/dia4-itertools.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️](/dias/dia5-enumerate.md)|
+| [⬅️ Día 4 ](/dias/dia4-itertools.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️](/dias/dia6-modificacion_listas.md)|
 |:------------- |:---------------:| -------------:|
 
