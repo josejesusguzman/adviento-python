@@ -35,7 +35,7 @@ print(cuadrados_comprension)
 ```
 
 **De hecho hay un TikTok que lo explica**
-[➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
+[➡️DALE CLIC AQUÍ PARA VERLO⬅️](https://vm.tiktok.com/ZM6N8fWqL/)
 
 | [⬅️ Día 2 ](/dias/dia2-lista_recursiva.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 4 ➡️](/dias/dia4-itertools.md)|
 |:------------- |:---------------:| -------------:|
