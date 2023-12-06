@@ -32,7 +32,7 @@ print(combinaciones)
 ```
 
 **De hecho hay un TikTok que lo explica**
-[➡️DALE CLIC AQUÍ PARA VERLO⬅️]()
+[➡️DALE CLIC AQUÍ PARA VERLO⬅️](https://vm.tiktok.com/ZM6N8L42R/)
 
 | [⬅️ Día 3 ](/dias/dia3-comprensiones-listas.md) | Con 💖 por [@brujeriatech](https://www.instagram.com/brujeriatech/) | [Día 5 ➡️](/dias/dia5-enumerate.md)|
 |:------------- |:---------------:| -------------:|
